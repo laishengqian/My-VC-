@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  MFCA-0413-1View.cpp
+f:\my test\0413-1\mfca-0413-1\mfca-0413-1view.cpp(129): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+  MFCA-0413-1Doc.cpp
+  MFCA-0413-1.cpp
+  MainFrm.cpp
+  正在生成代码...
+  MFCA-0413-1.vcxproj -> F:\My Test\0413-1\Debug\MFCA-0413-1.exe
+  MFCA-0413-1.vcxproj -> F:\My Test\0413-1\Debug\MFCA-0413-1.pdb (Partial PDB)

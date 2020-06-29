@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  MFCApplication3-0316View.cpp
+  MFCApplication3-0316Doc.cpp
+  MFCApplication3-0316.cpp
+  MainFrm.cpp
+  正在生成代码...
+  LINK : 没有找到 F:\visual\0316\Debug\MFCApplication3-0316.exe 或上一个增量链接没有生成它；正在执行完全链接
+  MFCApplication3-0316.vcxproj -> F:\visual\0316\Debug\MFCApplication3-0316.exe
+  MFCApplication3-0316.vcxproj -> F:\visual\0316\Debug\MFCApplication3-0316.pdb (Partial PDB)

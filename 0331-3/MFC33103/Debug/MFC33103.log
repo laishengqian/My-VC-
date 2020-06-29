@@ -1,0 +1,4 @@
+﻿  MFC33103View.cpp
+d:\vc实验\mfc33103\mfc33103\mfc33103view.cpp(102): warning C4101: “flag”: 未引用的局部变量
+  MFC33103.vcxproj -> D:\VC实验\MFC33103\Debug\MFC33103.exe
+  MFC33103.vcxproj -> D:\VC实验\MFC33103\Debug\MFC33103.pdb (Partial PDB)

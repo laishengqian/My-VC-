@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  MFC33101View.cpp
+f:\visual\0331-1\mfc33101\mfc33101view.cpp(107): warning C4101: “flag”: 未引用的局部变量
+  MFC33101Doc.cpp
+  MFC33101.cpp
+  MainFrm.cpp
+  正在生成代码...
+  LINK : 没有找到 F:\visual\0331-1\Debug\MFC33101.exe 或上一个增量链接没有生成它；正在执行完全链接
+  MFC33101.vcxproj -> F:\visual\0331-1\Debug\MFC33101.exe
+  MFC33101.vcxproj -> F:\visual\0331-1\Debug\MFC33101.pdb (Partial PDB)

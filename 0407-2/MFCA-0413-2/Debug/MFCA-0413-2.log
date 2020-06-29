@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  MFCA-0413-2View.cpp
+  MFCA-0413-2Doc.cpp
+  MFCA-0413-2.cpp
+  MainFrm.cpp
+  ADD.cpp
+  正在生成代码...
+  LINK : 没有找到 F:\visual\0413-2\Debug\MFCA-0413-2.exe 或上一个增量链接没有生成它；正在执行完全链接
+  MFCA-0413-2.vcxproj -> F:\visual\0413-2\Debug\MFCA-0413-2.exe
+  MFCA-0413-2.vcxproj -> F:\visual\0413-2\Debug\MFCA-0413-2.pdb (Partial PDB)

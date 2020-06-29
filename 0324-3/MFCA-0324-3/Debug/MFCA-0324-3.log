@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  MFCA-0324-3View.cpp
+f:\visual\0324-3\mfca-0324-3\mfca-0324-3view.cpp(142): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+f:\visual\0324-3\mfca-0324-3\mfca-0324-3view.cpp(146): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+f:\visual\0324-3\mfca-0324-3\mfca-0324-3view.cpp(150): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+  MFCA-0324-3Doc.cpp
+  MFCA-0324-3.cpp
+  MainFrm.cpp
+  正在生成代码...
+  LINK : 没有找到 F:\visual\0324-3\Debug\MFCA-0324-3.exe 或上一个增量链接没有生成它；正在执行完全链接
+  MFCA-0324-3.vcxproj -> F:\visual\0324-3\Debug\MFCA-0324-3.exe
+  MFCA-0324-3.vcxproj -> F:\visual\0324-3\Debug\MFCA-0324-3.pdb (Partial PDB)
